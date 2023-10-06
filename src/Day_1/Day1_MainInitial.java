@@ -1,6 +1,8 @@
+package Day_1;
+
 import java.util.Scanner;
 
-public class Day1_Main_initial {
+public class Day1_MainInitial {
     public static void main(String[] args) {
 
         byte minhaIdade = 38;

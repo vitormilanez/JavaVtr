@@ -1,3 +1,5 @@
+package Day_2;
+
 import java.util.Arrays;
 
 public class Day2_Array_int {

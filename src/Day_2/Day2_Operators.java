@@ -1,3 +1,5 @@
+package Day_2;
+
 public class Day2_Operators {
 
     public static void main(String[] args) {
