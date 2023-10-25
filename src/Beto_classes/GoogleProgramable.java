@@ -63,7 +63,7 @@ public class GoogleProgramable {
 
         // Função para realizar a pesquisa no Google
         private static String performGoogleSearch(String apiKey, String cx, String query) throws IOException {
-            String url = "https://www.googleapis.com/customsearch/v1?key=" + apiKey + "&cx=" + cx + "&q=" + query;
+            String url = "https://customsearch.googleapis.com/customsearch/v1?key=AIzaSyAHrD5WMfGf1vHgrFDNtRr5zxYuRlzGHQY&cx=05fcf2b036aaa4715&q=DIESEL%20DENMARK%20APS%20cvr%2011109977";
             HttpURLConnection connection = (HttpURLConnection) new URL(url).openConnection();
             connection.setRequestMethod("GET");
 
